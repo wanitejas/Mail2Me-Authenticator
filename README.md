@@ -1,1 +1,1 @@
-# Mail2Me-Authenticator
+## MERN Authentication using Email
